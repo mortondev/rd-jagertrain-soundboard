@@ -13,7 +13,7 @@
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
     <allow-intent href="market:*" />
-    <name>Jagertrain Sounds</name>
+    <name>Jagertrain</name>
     <description>
         Initial project template built from the Phonegap starter project
     </description>
